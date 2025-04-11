@@ -4,12 +4,6 @@ This project is a full-featured **Inventory Management System** developed as par
 
 ---
 
-## 📅 Duration
-
-**June 2023 – July 2023**
-
----
-
 ## 🚀 Features
 
 ### 🧮 Inventory Functionality
